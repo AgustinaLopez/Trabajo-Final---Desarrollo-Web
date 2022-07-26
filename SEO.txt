@@ -1,0 +1,37 @@
+---SEO----
+*Mediante la etiqueta meta se utilizaron las siguientes keywords: "decoracion, diseño, diseño de interiores, decoracion artesanal, asesoramiento, arquitectura, cesteria, velas, difusores,"
+
+*Modificaciones en Títulos y Descripciones.
+
+-TITLE INDEX: "Narcisa Estudio - Decoracion y Diseño de Interiores"
+
+DESCRIPTION INDEX: "Te ayudamos a decorar tus espacios con nuestros productos hechos 100% a mano y con mucho cariño en nuestro taller.
+Dedicadas al diseño de interiores, para que conviertas tu casa en todo un HOGAR"
+
+
+-TITLE BLOG: Nuestro Blog y artículos de Interes!
+
+DESCRIPTION BLOG:"Te contamos como podes transformar vos mismo tus espacios! Charlamos sobre tendencias en diseño de interiores, estilos, como potenciar tu decoración, y más!" 
+
+
+-TITLE CONTACTO: Dejanos tu mensaje o Visitanos
+
+DESCRIPTION CONTACTO: "Podemos asesorarte en diseño de interiores de manera ONLINE. Dejanos tu mensaje aquí o visitanos en nuestro local!"
+
+
+-TITLE PRESENTACION: Nuestra pequeña historia
+
+DESCRIPTION PRESENTACION: "Somos una familia emprendedora, Narcisa Estudio nació en nuestro pequeño taller, donde volcamos toda nuestra pasión en crear productos especiales"
+
+
+-TITLE PRODCTOS: Nuestros Productos 100% artesanales
+
+DESCRIPTION PRODUCTOS: "Nuestros productos son hechos a mano y con mucho amor. Objetos unicos, artesanales, que le da personalidad a cada uno de ellos y complementan tus espacios"
+
+
+*Modificaciones de Encabezados
+
+-Index h1: "Te ayudamos a convertir tu casa en un HOGAR"
+-Blog h1: "Articulos de interes para potenciar el Interiorismo"
+-Nos presentamos h1: "Un poquito de nuestra historia"
+-Nuestros Productos h1: "Productos de Diseño"
