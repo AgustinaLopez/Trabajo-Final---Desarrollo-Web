@@ -30,7 +30,7 @@ body{
 
 p{
 	font-family: $mainFont;
-	font-size: $textMd;
+	font-size: $textLg;
 	color: map-get($map:$colores, $key:'tres');
 	font-weight: 350;
 	text-align: center;
